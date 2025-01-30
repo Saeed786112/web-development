@@ -1,0 +1,41 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 20px;
+}
+.header{
+    background-color: brown;
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+.header{
+    font-size: 30px;
+}
+.navbar{
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+
+}
+.navbar a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 8px;
+}
+.container{
+    background-color: aquamarine;
+    margin: 10px;
+    display: flex;
+    padding: 20px;
+}
+.text-section{
+    flex:3;
+    padding: 20px;
+}
+.text-section{
+    font-size: 45px;
+}
+.image-section{
+   flex:2;
+}
